@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T10:50:49.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-lyP8cW1fNo-ALAbIHc-" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T12:43:40.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="T-aE_1Nzy7yQCVMKX-LY" version="21.3.2" type="github">
   <diagram name="Page-1" id="c4nXFNeBFdgrfNwBTD_H">
     <mxGraphModel dx="1235" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,59 +7,59 @@
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-1" value="Lucrari cadastru GIS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TaOxIR-Y_0B-BQlurdxr-2" value="sectoare_cadastrale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="90" width="170" height="70" as="geometry" />
+        <mxCell id="TaOxIR-Y_0B-BQlurdxr-2" value="sectoare_cadastrale" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="150" y="50" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-3" value="retea_sprijin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="190" width="170" height="70" as="geometry" />
+          <mxGeometry x="170" y="420" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-4" value="echipa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="290" width="170" height="70" as="geometry" />
+          <mxGeometry x="170" y="520" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-5" value="angajati" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="390" width="170" height="70" as="geometry" />
+          <mxGeometry x="170" y="620" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-8" value="echipament" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="90" width="170" height="70" as="geometry" />
+          <mxGeometry x="370" y="320" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-9" value="hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="170" height="70" as="geometry" />
+          <mxGeometry x="370" y="420" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-10" value="flota" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="290" width="170" height="70" as="geometry" />
+          <mxGeometry x="370" y="520" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-11" value="documente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="170" height="70" as="geometry" />
+          <mxGeometry x="370" y="630" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-12" value="masuratori" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="170" height="70" as="geometry" />
+          <mxGeometry x="590" y="320" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-13" value="primarie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="190" width="170" height="70" as="geometry" />
+          <mxGeometry x="590" y="420" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-14" value="proprietar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="290" width="170" height="70" as="geometry" />
+          <mxGeometry x="580" y="520" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-15" value="software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="400" width="170" height="70" as="geometry" />
+          <mxGeometry x="580" y="630" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-16" value="dosar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="90" width="170" height="70" as="geometry" />
+          <mxGeometry x="800" y="320" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-18" value="templates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="190" width="170" height="70" as="geometry" />
+          <mxGeometry x="800" y="420" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-19" value="planse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="290" width="170" height="70" as="geometry" />
+          <mxGeometry x="800" y="520" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-20" value="respingeri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="400" width="170" height="70" as="geometry" />
+          <mxGeometry x="790" y="630" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-21" value="completari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="90" width="170" height="70" as="geometry" />
+          <mxGeometry x="1010" y="320" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TaOxIR-Y_0B-BQlurdxr-22" value="contestatii" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="190" width="170" height="70" as="geometry" />
+          <mxGeometry x="1010" y="420" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
