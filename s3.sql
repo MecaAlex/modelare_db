@@ -6,7 +6,7 @@ CREATE TABLE  IF NOT EXISTS country(
 );
 
 create table if not exists county(
-	id serial primary key not null,
+	id integer primary key not null,
 	country_id integer not null,
 	area decimal not null,
 	siruta integer not null,
